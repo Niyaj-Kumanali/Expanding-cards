@@ -9,6 +9,7 @@ body {
     align-items: center;
     height: 100vh;
     overflow: hidden;
+    background-color: aliceblue;
 }
 
 .container {
@@ -27,7 +28,8 @@ body {
     flex: 0.5;
     margin: 10px;
     position: relative;
-    transition: flex 0.7s ease-in;
+    transition: flex 0.9s ease-in-out;
+    border: 1px solid #fff;
 }
 
 .panel h3{
@@ -41,7 +43,7 @@ body {
 
 .panel.active {
     flex: 5;
-    box-shadow: 2px 5px 10px #335;
+    box-shadow: 2px 5px 10px #353535;
 }
 
 .panel.active h3{
