@@ -1,1 +1,1 @@
-# [!Expanding-cards]{"https://Niyaj-Kumanali.github.io/Expanding-cards"}
+# [Expanding-cards](https://Niyaj-Kumanali.github.io/Expanding-cards)
